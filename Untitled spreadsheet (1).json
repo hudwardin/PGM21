@@ -3,170 +3,170 @@
     "{": {
       "[": "{"
     },
-    "\"iden\": \"5A251D07-3C9D-4BD1-B511-FD20CA81227C\",": {
-      "[": "\"iden\": \"5A251D07-3C9D-4BD1-B511-FD20CA81227C\","
+    ""iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",": {
+      "[": ""iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C","
     },
-    "\"forename\": \"Ameer\",": {
-      "[": "\"forename\": \"Ameer\","
+    ""forename": "Ameer",": {
+      "[": ""forename": "Ameer","
     },
-    "\"surname\": \"Abdullah\",": {
-      "[": "\"surname\": \"Abdullah\","
+    ""surname": "Abdullah",": {
+      "[": ""surname": "Abdullah","
     },
-    "\"position\": \"RB\",": {
-      "[": "\"position\": \"RB\","
+    ""position": "RB",": {
+      "[": ""position": "RB","
     },
-    "\"teamID\": \"CAR\",": {
-      "[": "\"teamID\": \"MIN\","
+    ""teamID": "CAR",": {
+      "[": ""teamID": "MIN","
     },
-    "\"age\": 28,": {
-      "[": "\"age\": 27,"
+    ""age": 28,": {
+      "[": ""age": 27,"
     },
-    "\"draftSeason\": 2014,": {
-      "[": "\"draftSeason\": 2014,"
+    ""draftSeason": 2014,": {
+      "[": ""draftSeason": 2014,"
     },
-    "\"draftNum\": 53,": {
-      "[": "\"draftNum\": 53,"
+    ""draftNum": 53,": {
+      "[": ""draftNum": 53,"
     },
-    "\"length\": 1,": {
-      "[": "\"length\": 1,"
+    ""length": 1,": {
+      "[": ""length": 1,"
     },
-    "\"salary\": 750000,": {
-      "[": "\"salary\": 750000,"
+    ""salary": 750000,": {
+      "[": ""salary": 750000,"
     },
-    "\"guarantee\": 140000,": {
-      "[": "\"guarantee\": 140000,"
+    ""guarantee": 140000,": {
+      "[": ""guarantee": 140000,"
     },
-    "\"eLength\": 1,": {
-      "[": "\"eLength\": 1,"
+    ""eLength": 1,": {
+      "[": ""eLength": 1,"
     },
-    "\"eSalary\": 1,": {
-      "[": "\"eSalary\": 1,"
+    ""eSalary": 1,": {
+      "[": ""eSalary": 1,"
     },
-    "\"eGuarantee\": 1,": {
-      "[": "\"eGuarantee\": 1,"
+    ""eGuarantee": 1,": {
+      "[": ""eGuarantee": 1,"
     },
-    "\"potential\": 1,": {
-      "[": "\"potential\": 1,"
+    ""potential": 1,": {
+      "[": ""potential": 1,"
     },
-    "\"speed\": 80,": {
-      "[": "\"speed\": 80,"
+    ""speed": 80,": {
+      "[": ""speed": 80,"
     },
-    "\"burst\": 90,": {
-      "[": "\"burst\": 90,"
+    ""burst": 90,": {
+      "[": ""burst": 90,"
     },
-    "\"power\": 68,": {
-      "[": "\"power\": 68,"
+    ""power": 68,": {
+      "[": ""power": 68,"
     },
-    "\"agility\": 89,": {
-      "[": "\"agility\": 89,"
+    ""agility": 89,": {
+      "[": ""agility": 89,"
     },
-    "\"jumping\": 90,": {
-      "[": "\"jumping\": 90,"
+    ""jumping": 90,": {
+      "[": ""jumping": 90,"
     },
-    "\"stamina\": 84,": {
-      "[": "\"stamina\": 84,"
+    ""stamina": 84,": {
+      "[": ""stamina": 84,"
     },
-    "\"injuryProne\": 16,": {
-      "[": "\"injuryProne\": 16,"
+    ""injuryProne": 16,": {
+      "[": ""injuryProne": 16,"
     },
-    "\"discipline\": 41,": {
-      "[": "\"discipline\": 41,"
+    ""discipline": 41,": {
+      "[": ""discipline": 41,"
     },
-    "\"intelligence\": 66,": {
-      "[": "\"intelligence\": 66,"
+    ""intelligence": 66,": {
+      "[": ""intelligence": 66,"
     },
-    "\"loyalty\": 96,": {
-      "[": "\"loyalty\": 96,"
+    ""loyalty": 96,": {
+      "[": ""loyalty": 96,"
     },
-    "\"greed\": 83,": {
-      "[": "\"greed\": 83,"
+    ""greed": 83,": {
+      "[": ""greed": 83,"
     },
-    "\"ambition\": 78,": {
-      "[": "\"ambition\": 78,"
+    ""ambition": 78,": {
+      "[": ""ambition": 78,"
     },
-    "\"decisions\": 42,": {
-      "[": "\"decisions\": 42,"
+    ""decisions": 42,": {
+      "[": ""decisions": 42,"
     },
-    "\"vision\": 35,": {
-      "[": "\"vision\": 35,"
+    ""vision": 35,": {
+      "[": ""vision": 35,"
     },
-    "\"sPassAcc\": 30,": {
-      "[": "\"sPassAcc\": 30,"
+    ""sPassAcc": 30,": {
+      "[": ""sPassAcc": 30,"
     },
-    "\"mPassAcc\": 25,": {
-      "[": "\"mPassAcc\": 25,"
+    ""mPassAcc": 25,": {
+      "[": ""mPassAcc": 25,"
     },
-    "\"dPassAcc\": 15,": {
-      "[": "\"dPassAcc\": 15,"
+    ""dPassAcc": 15,": {
+      "[": ""dPassAcc": 15,"
     },
-    "\"throwOnRun\": 10,": {
-      "[": "\"throwOnRun\": 10,"
+    ""throwOnRun": 10,": {
+      "[": ""throwOnRun": 10,"
     },
-    "\"routeRun\": 38,": {
-      "[": "\"routeRun\": 38,"
+    ""routeRun": 38,": {
+      "[": ""routeRun": 38,"
     },
-    "\"catching\": 39,": {
-      "[": "\"catching\": 39,"
+    ""catching": 39,": {
+      "[": ""catching": 39,"
     },
-    "\"passBlock\": 60,": {
-      "[": "\"passBlock\": 60,"
+    ""passBlock": 60,": {
+      "[": ""passBlock": 60,"
     },
-    "\"rushBlock\": 37,": {
-      "[": "\"rushBlock\": 37,"
+    ""rushBlock": 37,": {
+      "[": ""rushBlock": 37,"
     },
-    "\"ballSecurity\": 79,": {
-      "[": "\"ballSecurity\": 79,"
+    ""ballSecurity": 79,": {
+      "[": ""ballSecurity": 79,"
     },
-    "\"trucking\": 59,": {
-      "[": "\"trucking\": 59,"
+    ""trucking": 59,": {
+      "[": ""trucking": 59,"
     },
-    "\"kickAccuracy\": 21,": {
-      "[": "\"kickAccuracy\": 21,"
+    ""kickAccuracy": 21,": {
+      "[": ""kickAccuracy": 21,"
     },
-    "\"zoneCover\": 19,": {
-      "[": "\"zoneCover\": 19,"
+    ""zoneCover": 19,": {
+      "[": ""zoneCover": 19,"
     },
-    "\"manCover\": 10,": {
-      "[": "\"manCover\": 10,"
+    ""manCover": 10,": {
+      "[": ""manCover": 10,"
     },
-    "\"blockShedding\": 30,": {
-      "[": "\"blockShedding\": 30,"
+    ""blockShedding": 30,": {
+      "[": ""blockShedding": 30,"
     },
-    "\"ballStrip\": 21,": {
-      "[": "\"ballStrip\": 21,"
+    ""ballStrip": 21,": {
+      "[": ""ballStrip": 21,"
     },
-    "\"tackle\": 42,": {
-      "[": "\"tackle\": 42,"
+    ""tackle": 42,": {
+      "[": ""tackle": 42,"
     },
-    "\"elusiveness\": 93,": {
-      "[": "\"elusiveness\": 93,"
+    ""elusiveness": 93,": {
+      "[": ""elusiveness": 93,"
     },
-    "\"releaseLine\": 6,": {
-      "[": "\"releaseLine\": 6,"
+    ""releaseLine": 6,": {
+      "[": ""releaseLine": 6,"
     },
-    "\"skillMove\": 85,": {
-      "[": "\"skillMove\": 85,"
+    ""skillMove": 85,": {
+      "[": ""skillMove": 85,"
     },
-    "\"rating\": 1,": {
-      "[": "\"rating\": 1,"
+    ""rating": 1,": {
+      "[": ""rating": 1,"
     },
-    "\"growthType\": 0,": {
-      "[": "\"growthType\": 0,"
+    ""growthType": 0,": {
+      "[": ""growthType": 0,"
     },
-    "\"appearance\": [": {
-      "[": "\"appearance\": ["
+    ""appearance": [": {
+      "[": ""appearance": ["
     },
-    "\"Head3\",": {
-      "[": "\"Head3\","
+    ""Head3",": {
+      "[": ""Head3","
     },
-    "\"Eyes3\",": {
-      "[": "\"Eyes3\","
+    ""Eyes3",": {
+      "[": ""Eyes3","
     },
-    "\"Hair3Brown\",": {
-      "[": "\"Hair3Brown\","
+    ""Hair3Brown",": {
+      "[": ""Hair3Brown","
     },
-    "\"Beard2Brown\"": {
-      "[": "\"Beard2Brown\""
+    ""Beard2Brown"": {
+      "[": ""Beard2Brown""
     },
     "]": {
       "[": null
